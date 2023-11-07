@@ -1,0 +1,26 @@
+
+
+.Shed h1{
+    margin-top: 50px;
+    height: 100px;
+}
+
+.cont{
+   
+   height: 700px;
+   margin-top: 50px;
+   width: 100%;
+}
+
+.call{
+    background-color: transparent;
+    width: 40%;
+    height: 700px;
+    float: left;
+}
+.nmbr{
+    background-color:transparent;
+    width: 60%;
+    height: 700px;
+    float: right;
+}
